@@ -38,6 +38,10 @@
 
 Nexora is a next-generation e-commerce platform that leverages **AI technology** (powered by Groq) to provide intelligent shopping experiences. The platform features semantic product search, personalized recommendations, and an AI chatbot that understands your shopping needs.
 
+
+Video Demonstration : https://drive.google.com/file/d/1CKWui76ctZkkfF-FFeE-NraLUEuq3Fqx/view?usp=sharing
+
+
 ### 🎯 Key Highlights
 
 - 🤖 **AI-Powered**: Groq LLaMA 3.3 70B for intelligent recommendations
